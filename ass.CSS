@@ -1,0 +1,9 @@
+.A{
+background-color: aquamarine;
+width: 50%;
+padding: 100px; margin: 100px; color: gray;
+}
+
+.name{
+    display: flex;width: max-content;
+}
