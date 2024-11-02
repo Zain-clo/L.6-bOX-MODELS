@@ -1,0 +1,19 @@
+.first{
+    background-color: red;
+    color: white;
+    padding: 100px;
+    margin: 100px;
+}
+.second{
+    background-color: blue;
+    color: aliceblue;
+    padding: 100px;
+    margin-left: 20px;
+}
+.box{
+    width: 1000px;
+    color: red;
+    margin: 20px;
+    float: left;
+    padding: 50pxr;
+}
